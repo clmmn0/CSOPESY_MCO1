@@ -10,4 +10,14 @@ An input text file is accepted by the program which contains the following:
 - `Z` denotes a time slice value (applicable for RR only) where 1 <= `Z` <= 100.
 - There will be `Y` lines of space-separated integers `A B C` where `A` is the process ID, `B` is the arrival time, and `C` is the burst time.
 
-To run the program, use the command prompt or use programs like Dev-C++ or Visual Studio Code.
+# How to Run the Program
+1. Clone this repository.
+2. Navigate to the cloned version of this repository.
+3. Open the command prompt.
+4. Type and run `gcc CSOPESY_MCO1_Code.c -o CSOPESY_MCO1_Code` in the command prompt.
+5. Type and run `CSOPESY_MCO1_Code` in the command prompt or simply double-click the `CSOPESY_MCO1_Code.exe` file.
+6. Wait for the program to start.
+7. Input the filename of the text file which contains the input.
+8. Wait until the program has finished executing.
+
+You may also run the program using applications like Dev-C++ or Visual Studio Code.
