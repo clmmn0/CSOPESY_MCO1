@@ -1,4 +1,4 @@
-# CSOPESY_MCO1_CPUSchedulingAlgorithms
+# CSOPESY_MCO1_CPUSchedulingAlgos
 
 A C-based program that shows a simulation of basic CPU scheduling algorithms which are: First-Come First Serve (FCFS), Shortest-Job First (SJF), Shortest-Remaining-Time-First (SRTF), and Round-Robin (RR).
 
